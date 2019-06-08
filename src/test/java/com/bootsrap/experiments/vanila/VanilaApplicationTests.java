@@ -1,4 +1,4 @@
-package com.boostrap.experiments.vanila;
+package com.bootsrap.experiments.vanila;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
